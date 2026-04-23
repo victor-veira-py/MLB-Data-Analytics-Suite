@@ -1,6 +1,8 @@
 # 📊 Phase 1: Individual Executive Report | Fase 1: Reporte Ejecutivo Individual
 
-[English](#english-f1) | [Español](#español-f1)
+<a id="english-f1"></a>
+<a id="espanol-f1"></a>
+[English](#english-f1) | [Español](#espanol-f1)
 
 ---
 
@@ -28,14 +30,16 @@ La primera etapa de la **MLB Analytics Suite** se enfoca en la precisión de la 
 
 ### 🏆 Phase 1 Output | Resultado de la Fase 1:
 
-<img width="1366" height="736" alt="Excel-Individual-Altuve" src="https://github.com/user-attachments/assets/f41a063c-7796-463f-a337-7bc610a945ab" />
+<img width="1366" height="736" alt="Excel-Individual-Altuve" src="https://github.com/user-attachments/assets/e813ca46-5ed2-4550-aabd-76927686a5b0" />
 
 ---
 ---
 
 # 🤖 Phase 2: Bulk Report Automation | Fase 2: Automatización de Reportes Masivos
 
-[English](#english-f2) | [Español](#español-f2)
+<a id="english-f2"></a>
+<a id="espanol-f2"></a>
+[English](#english-f2) | [Español](#espanol-f2)
 
 ---
 
@@ -65,19 +69,21 @@ La segunda etapa de la **MLB Analytics Suite** eleva el sistema a un nivel de au
 
 #### Bulk Console Output / Salida en Consola:
 
-<img width="720" height="418" alt="Consola-excels" src="https://github.com/user-attachments/assets/0e406bcb-dd52-4f44-9e8b-f6ff57fefde0" />
+<img width="720" height="418" alt="Consola-excels" src="https://github.com/user-attachments/assets/45760379-c208-458c-879f-2a91f8339557" />
 
 
 #### Final Report Result / Resultado Final del Reporte:
 
-<img width="1366" height="736" alt="Excel-Trout" src="https://github.com/user-attachments/assets/671fc3e3-e4a1-4507-ab09-1f0e56674f70" />
+<img width="1366" height="736" alt="Excel-Trout" src="https://github.com/user-attachments/assets/5b8acf66-0c29-45c7-bc72-df561450578e" />
 
 ---
 ---
 
 # 📊 Phase 3: Elite Consolidated Reports | Fase 3: Reportes Consolidados Élite
 
-[English](#english-f3) | [Español](#español-f3)
+<a id="english-f3"></a>
+<a id="espanol-f3"></a>
+[English](#english-f3) | [Español](#espanol-f3)
 
 ---
 
@@ -107,7 +113,7 @@ Esta es la etapa más avanzada de la **MLB Analytics Suite**. Este motor procesa
 
 ### 🏆 Phase 3 Output | Resultado de la Fase 3 (Consolidado):
 
-<img width="1366" height="736" alt="Excel-libros" src="https://github.com/user-attachments/assets/60d586d5-731a-43e7-9799-d7156f71f3a0" />
+<img width="1366" height="736" alt="Excel-libros" src="https://github.com/user-attachments/assets/cbcd69e5-5c1b-4cd7-9721-14e1e65ef701" />
 
 
 ---
